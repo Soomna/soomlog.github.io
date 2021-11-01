@@ -1,0 +1,22 @@
+# main links
+main:
+  - title: "Home"
+    url: https://soomna.github.io/
+    
+  - title: "About"
+    url: /about/
+    
+  - title: "ML"
+    url: /ML/
+    
+  - title: "DB"
+    url: /DB/
+    
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
