@@ -293,7 +293,7 @@ defaults:
       
    - scope:
        path: ""
-       type: _data
+       type: data
      values:
        sidebar:
          nav: "main"
