@@ -284,18 +284,12 @@ defaults:
     values:
       layout: single
       author_profile: true
-#       sidebar:
-#         nav: "main"
+      sidebar:
+        nav: "docs"
       read_time: true
       comments: # true
       share: true
       related: true
-      
-  - scope:
-      path: ""
-      type: _data
-    values:
-      sidebar: true
-        nav: "main"
+
       
     
