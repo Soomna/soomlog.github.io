@@ -284,9 +284,18 @@ defaults:
     values:
       layout: single
       author_profile: true
-      sidebar: true
-        nav: "main"
+#       sidebar:
+#         nav: "main"
       read_time: true
       comments: # true
       share: true
       related: true
+      
+  - scope:
+      path: ""
+      type: _data
+    values:
+      sidebar: true
+        nav: "main"
+      
+    
